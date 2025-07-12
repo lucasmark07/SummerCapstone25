@@ -11,7 +11,7 @@ This project develops a dynamic parking pricing system aimed at optimizing parki
 *   **NumPy:** Used for numerical operations and mathematical computations within the pricing models.
 *   **Pathway:** Employed for real-time data ingestion and simulation, demonstrating the system's ability to handle streaming data.
 *   **Matplotlib:** Used for generating various visualizations, including price comparisons, occupancy trends, and queue length trends.
-*   **Google Colab:** (As demonstrated by the provided notebook) A cloud-based platform for collaborative development and execution of Python code, particularly useful for data science and machine learning projects.
+*   **Google Colab:** A cloud-based platform for collaborative development and execution of Python code, particularly useful for data science and machine learning projects.
 
 
 
@@ -30,10 +30,7 @@ graph TD
     E --> F
     F --> G[Visualizations - visualizations.py]
     G --> H[Insights & Reports]
-    H --> I[GitHub README.md]
 ```
-
-![Architecture Diagram](https://private-us-east-1.manuscdn.com/sessionFile/rsmEjMwqyNnbz77YvH2zfi/sandbox/kgkTyXxuWohad7lHDx9yMF-images_1752317808494_na1fn_L2hvbWUvdWJ1bnR1L2FyY2hpdGVjdHVyZV9kaWFncmFt.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvcnNtRWpNd3F5Tm5iejc3WXZIMnpmaS9zYW5kYm94L2tna1R5WHh1V29oYWQ3bEhEeDl5TUYtaW1hZ2VzXzE3NTIzMTc4MDg0OTRfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyRnlZMmhwZEdWamRIVnlaVjlrYVdGbmNtRnQucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=b78OCnqb0oR868ugeAUappIXcUhhYcUYPuL5YcAFX77NZr87iM2BGqAlB7VC89Qa7lZW5QDv7qGvCfEaAxNdD-1IhBGrbJ9sBRkQbb8kml-8cd78U2lgN5B4UE6wQUfcurPptQ8bJ0VTgLJ1yKL3uP~BSELC-1Fcq-ssHlBRkzSfgVf8PUk3ix3u7UiP0yBSjcLa1AMY~lMq3qS0HA8UaE48xq265AvmydNJnwHNVXNzCnxSumDUjUx4AnvsOWUzM4EA5aV4q~E4tDJyo3iBj6ttnKi7YF1-SOkeHc9fIofQnO3DAbz~wsbqHpXBKHJd8kCxj1OV-MY8IoFyA9Maiw__)
 
 ## Detailed Architecture Explanation and Workflow
 
